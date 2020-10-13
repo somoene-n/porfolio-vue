@@ -1,6 +1,6 @@
 export default {
     fullname: "Nanthawat Bunsriphum",
-    nickname: "@tadecode",
+    nickname: "@Nong_Ta",
     birthyear: 1996,
     tel: "088-791-9550",
     line: "tu-ta.na",
@@ -68,9 +68,9 @@ export default {
             {
                 isActive: true,
                 year: "2019 - Present",
-                subject: "CTO & Developer",
+                subject: "CXO & Developer",
                 title: "Decodethailand Team.",
-                desc: "Work in a freeland as a team.",
+                desc: "Working as a freelancer about web development and mobile application.",
             },
             {
                 isActive: false,
